@@ -228,24 +228,15 @@ The project also includes:
 
 ## Model Accuracy Comparison
 
-```markdown
-Add image here:
-MODEL TRAINING/7 - Model Accuracy Comparison.png
-```
+![Model Accuracy Comparison](images/model_training/7_model_accuracy_comparison.png)
 
 ## Random Forest Feature Importance
 
-```markdown
-Add image here:
-MODEL TRAINING/6 - Random Forest Feature Importance.png
-```
+![Random Forest Feature Importance](images/model_training/6_random_forest_feature_importance.png)
 
 ## Correlation Heatmap
 
-```markdown
-Add image here:
-EDA/11 - Correlation Heatmap.png
-```
+![Correlation Heatmap](images/eda/11_correlation_heatmap.png)
 
 ---
 
